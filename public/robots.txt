@@ -1,0 +1,4 @@
+User-agent: robotların hangi dosyaya erişebileceği * hepsi
+Disallow: robotlarn hangi dosyay erişemeyeceği /özel_seyler
+
+sitemap: https://www.furkanevin.xyz/sitemap.xml
